@@ -1,3 +1,4 @@
+# metacaracteres . ^ $ * + ? { } [ ] \ | ( )
 # | significa OU
 # . significa qualquer caractere, exceto quebra de linha
 import re 
